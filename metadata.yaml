@@ -1,0 +1,27 @@
+_repo: The-Heart-of-Canyon-Pass_36953
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holmes, Thomas K.
+    gutenberg_agent_id: '38558'
+    url: http://www.gutenberg.org/2009/agents/38558
+description: ''
+gutenberg_issued: '2011-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36953'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'Miners -- Fiction'
+- !lcsh 'Brothers and sisters -- Fiction'
+- !lcc 'PS'
+title: The Heart of Canyon Pass
+url: http://www.gutenberg.org/ebooks/36953
